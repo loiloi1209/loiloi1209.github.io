@@ -138,11 +138,11 @@ nav .iconshow{
     text-align: center;
     padding-top: 100px;
 }
-h1{
+.course h1{
     font-size: 36px;
     font-weight: 600;
 }
-p{
+.course p{
     color: #777;
     font-size: 14px;
     font-weight: 300;
